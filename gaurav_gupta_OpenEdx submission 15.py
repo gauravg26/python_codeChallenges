@@ -1,5 +1,5 @@
 
-for num in range(50):
+for num in range(51):
     if num % 5 == 0 and num % 3 == 0:
         print("fizzbuzz")
         continue
